@@ -1,4 +1,4 @@
-# Design Engineering CoverLetters
+# Design Engineering Cover Letters
 
 ![image](MSEE_CoverLetters.jpg)
 
