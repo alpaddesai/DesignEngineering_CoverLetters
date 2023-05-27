@@ -2,6 +2,8 @@
 
 ![image](MSEE_CoverLetters.jpg)
 
+![image](DesignEngineering_CoverLettersII.jpg)
+
 ![image](EthicsandExcellence.png)
 
 ![image](USCopyrightCertificate.png)
